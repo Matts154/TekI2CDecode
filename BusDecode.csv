@@ -1,0 +1,11 @@
+﻿Index,Start Time,Address,Data,Error
+0,-0.00200918207828283,A1h:R,2Eh 30h 32h 34h,
+1,-0.00150838207828283,A1h:R,36h 38h 3Ah 3Ch,
+2,-0.00100727887315462,A0h:W,17h,
+3,-0.000909128873154623,A1h:R,3Eh,
+4,-0.000506079994949495,202h:W,F3h BEh,Nak: (4) Unexpected Nak
+5,-5.12628118137873E-06,203h:W,66h BBh,Nak: (4) Unexpected Nak
+6,0.000496118588383838,252h:W,,Nak: (2) Unexpected Nak
+7,0.000594467921717172,F3h:R,77h A7h,Nak: Unexpected Nak; Ack: Unexpected Ack
+8,0.000997272088383838,253h:W,BEh EBh,Nak: (3) Unexpected Nak
+9,0.0011875200050505,F3h:R,BEh EBh,Nak: Unexpected Nak; Ack: Unexpected Ack
